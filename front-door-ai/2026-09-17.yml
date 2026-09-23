@@ -1,0 +1,27 @@
+# Front Door AI Index — tsmc — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: tsmc
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.tsmc.com
+  final_host: www.tsmc.com
+  ownership: own
+  owner: tsmc
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 7
+  host_score: 7
+  density: 4.76
+  words: 1471
+  tiers:
+    agentic: 0
+    core: 7
+    model: 0
+  ambiguous: 2
+  top_terms:
+    AI: 5
+    artificial intelligence: 2
+    intelligence: 2
